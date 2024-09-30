@@ -1,0 +1,7 @@
+/html/*
+/build/*
+/bin/*
+/obj/*
+/CMakeFiles/*
+/cmake-build-debug/*
+/.idea/*

@@ -1,0 +1,12 @@
+[submodule "dependencies/googletest"]
+	path = dependencies/googletest
+	url = git@github.com:google/googletest.git
+[submodule "dependencies/amexception"]
+	path = dependencies/amexception
+	url = git@github.com:robotea/amexception.git
+[submodule "dependencies/amlstring"]
+	path = dependencies/amlstring
+	url = git@github.com:robotea/amlstring.git
+[submodule "dependencies/amfnv1a"]
+	path = dependencies/amfnv1a
+	url = git@github.com:robotea/amfnv1a.git
